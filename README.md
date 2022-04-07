@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @3543089544
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m 小方
+- 👀 I’m interested in 正在学习C语言，喜欢自行车，打羽毛球，有机会会尝试女装滴。（手动滑稽）
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 3543089544@qq.com
 
 <!---
 3543089544/3543089544 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
